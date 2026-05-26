@@ -2,5 +2,9 @@
 data/
 **/data/
 
+# Local environment files (contain secrets like Google Sheet IDs)
+.env
+**/.env
+
 # IDE files
 .idea/
