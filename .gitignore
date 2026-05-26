@@ -1,0 +1,6 @@
+# Generated output and input data files live in data/ directories
+data/
+**/data/
+
+# IDE files
+.idea/
