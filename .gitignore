@@ -8,3 +8,8 @@ data/
 
 # IDE files
 .idea/
+
+# Python caches and OS metadata
+__pycache__/
+*.pyc
+.DS_Store
